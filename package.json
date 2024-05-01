@@ -1,0 +1,26 @@
+{
+  "name": "tabuadappiads",
+  "version": "1.0.0",
+  "description": "tabuada",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matcavalcant/TabuadaPPIADS.git"
+  },
+  "keywords": [
+    "node",
+    "http",
+    "ppi"
+  ],
+  "author": "Mateus Cavalcante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matcavalcant/TabuadaPPIADS/issues"
+  },
+  "homepage": "https://github.com/matcavalcant/TabuadaPPIADS#readme"
+}
